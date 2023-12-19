@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a615ac3f-ecb8-4f27-b437-14151d79b42c" name="Changes" comment="done">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ZAiJ2dIDDjkqfChDk55EfBYisB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/ParkingMgtSystem&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.parkingmanagementsystemsecured.security" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Documents\workspace-spring-tool-suite-4-4.20.0.RELEASE\ParkingManagementSystemSecured" />
+      <recent name="C:\Users\HP\Documents\workspace-spring-tool-suite-4-4.20.0.RELEASE\ParkingManagementSystemSecured\src\main\resources\templates" />
+      <recent name="C:\Users\HP\Documents\workspace-spring-tool-suite-4-4.20.0.RELEASE\ParkingManagementSystemSecured\src\main\resources\static" />
+      <recent name="C:\Users\HP\Documents\workspace-spring-tool-suite-4-4.20.0.RELEASE\ParkingManagementSystemSecured\src\main\java\com\example\parkingmanagementsystemsecured\model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.parkingmanagementsystemsecured.controller" />
+      <recent name="com.example.parkingmanagementsystemsecured.repository" />
+      <recent name="com.example.parkingmanagementsystemsecured.service.interfaces" />
+      <recent name="com.example.parkingmanagementsystemsecured.service.implementation" />
+      <recent name="com.example.parkingmanagementsystemsecured.model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ParkingManagementSystemSecuredApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ParkingManagementSystemSecured" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.parkingmanagementsystemsecured.ParkingManagementSystemSecuredApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a615ac3f-ecb8-4f27-b437-14151d79b42c" name="Changes" comment="" />
+      <created>1701871210485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701871210485</updated>
+      <workItem from="1701871211510" duration="5833000" />
+      <workItem from="1701936070883" duration="34495000" />
+      <workItem from="1702009792808" duration="1355000" />
+      <workItem from="1702030365392" duration="10012000" />
+      <workItem from="1702205794980" duration="1437000" />
+      <workItem from="1702238716876" duration="379000" />
+      <workItem from="1702239286673" duration="151000" />
+      <workItem from="1702240453342" duration="162000" />
+      <workItem from="1702325538627" duration="742000" />
+      <workItem from="1702327229776" duration="948000" />
+      <workItem from="1702331446686" duration="1159000" />
+      <workItem from="1702365033267" duration="25180000" />
+      <workItem from="1702401201339" duration="4283000" />
+      <workItem from="1702418451286" duration="1436000" />
+      <workItem from="1702440323397" duration="802000" />
+      <workItem from="1702457688650" duration="1399000" />
+      <workItem from="1702474398240" duration="299000" />
+      <workItem from="1702482697986" duration="658000" />
+      <workItem from="1702491161612" duration="603000" />
+      <workItem from="1702523047728" duration="666000" />
+      <workItem from="1702537940539" duration="1636000" />
+      <workItem from="1702546581814" duration="7698000" />
+      <workItem from="1702557871838" duration="9688000" />
+      <workItem from="1702577069031" duration="4258000" />
+      <workItem from="1702625746653" duration="17823000" />
+      <workItem from="1702666991323" duration="12836000" />
+      <workItem from="1702682467880" duration="18000" />
+      <workItem from="1702687585135" duration="1338000" />
+      <workItem from="1702690986857" duration="111000" />
+      <workItem from="1702732550680" duration="2256000" />
+      <workItem from="1702758249257" duration="2393000" />
+      <workItem from="1702760670253" duration="1496000" />
+      <workItem from="1702763328346" duration="370000" />
+      <workItem from="1702767639620" duration="11000" />
+      <workItem from="1702768629082" duration="613000" />
+      <workItem from="1702796275984" duration="126000" />
+      <workItem from="1702813765230" duration="2004000" />
+      <workItem from="1702845315804" duration="2159000" />
+      <workItem from="1702978588216" duration="34000" />
+    </task>
+    <task id="LOCAL-00001" summary="done">
+      <option name="closed" value="true" />
+      <created>1702761594005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702761594005</updated>
+    </task>
+    <task id="LOCAL-00002" summary="done">
+      <option name="closed" value="true" />
+      <created>1702846254493</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702846254493</updated>
+    </task>
+    <task id="LOCAL-00003" summary="done">
+      <option name="closed" value="true" />
+      <created>1702846522348</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702846522348</updated>
+    </task>
+    <task id="LOCAL-00004" summary="done">
+      <option name="closed" value="true" />
+      <created>1702847174143</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702847174143</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/parkingmanagementsystemsecured/model/Price.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
